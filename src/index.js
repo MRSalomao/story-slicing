@@ -3,7 +3,10 @@ import './styles.css';
 document.getElementById('app').innerHTML = `
 <h1>Price calculator!</h1>
 <div>
-  Coming soon
+  Units: 100
+  Price: $20
+
+  Total: $2000
 </div>
 `;
 

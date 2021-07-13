@@ -4,9 +4,11 @@ Just a placeholder saying "coming soon"
 
 ## Build UI that gives result for hardcoded inputs without discount or tax
 
-100 items, $20 each, in CA
+100 items, $20 each
 
 ## Build UI that gives result for hardcoded inputs with discount
+
+hardcode CA
 
 add discount table
 
