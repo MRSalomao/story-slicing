@@ -1,37 +1,39 @@
-## Build initial UI
+## 1 Build initial UI
 
 Just a placeholder saying "coming soon"
 
-## Build UI that gives result for hardcoded inputs without discount or tax
+## 2 Build UI that gives result for hardcoded inputs without discount or tax
 
 100 items, $20 each
 
-## Build UI that gives result for hardcoded inputs with tax
+## 3 Build UI that gives result for hardcoded inputs with tax
 
 hardcode CA
 
 add discount table
 
-## Build UI that gives result for hardcoded inputs with tax and discount
+## 4 Build UI that gives result for hardcoded inputs with tax and discount
 
 add tax table
 
-## Add "calculate" button
+## 5 Round total value to 2 decimal cases
 
-## Add number of items input
+## 6 Add "calculate" button
 
-## Add price per item input
+## 7 Add number of items input
 
-## Add state input
+## 8 Add price per item input
 
-## Add state validation
+## 9 Add state input
 
-## Add number of items validation
+## 10 Add state validation
 
-## Add price per item validation
+## 11 Add number of items validation
 
-## Style in column layout
+## 12 Add price per item validation
 
-## Style with company's design system
+## 13 Style in column layout
+ 
+## 14 Style with company's design system
 
-## Support different languages
+## 15 Support different languages
