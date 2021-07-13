@@ -6,13 +6,13 @@ Just a placeholder saying "coming soon"
 
 100 items, $20 each
 
-## Build UI that gives result for hardcoded inputs with discount
+## Build UI that gives result for hardcoded inputs with tax
 
 hardcode CA
 
 add discount table
 
-## Build UI that gives result for hardcoded inputs with discount and tax
+## Build UI that gives result for hardcoded inputs with tax and discount
 
 add tax table
 
