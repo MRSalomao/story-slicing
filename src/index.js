@@ -45,7 +45,10 @@ for (const d of discounts) {
 }
 
 totalRef.innerHTML =
-  '$' + (((rawTotal * (100 - discount)) / 100) * (100 - taxes['CA'])) / 100;
+  '$' +
+  ((((rawTotal * (100 - discount)) / 100) * (100 - taxes['CA'])) / 100).toFixed(
+    2
+  );
 
 taxRateRef.innerHTML = taxes['CA'] + '%';
 
